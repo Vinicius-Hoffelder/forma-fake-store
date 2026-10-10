@@ -1,6 +1,6 @@
 # Forma · Fake Store
 
-Aplicativo acadêmico em **React Native com Expo e JavaScript**, com identidade visual minimalista em cores neutras. Usa **Axios** para consumir a Fake Store API e **React Navigation Native Stack** para navegar entre as telas.
+Aplicativo acadêmico em **React Native com Expo e JavaScript**, com identidade visual minimalista. Usa **Axios** para consumir a Fake Store API e **React Navigation Native Stack** para navegar entre as telas.
 
 [Repositório no GitHub](https://github.com/Vinicius-Hoffelder/forma-fake-store)
 
