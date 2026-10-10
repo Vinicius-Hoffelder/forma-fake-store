@@ -91,7 +91,7 @@ Os testes usam o executor nativo do Node.js e um adaptador Axios simulado, sem a
 | Joao Buratti       | 1136821 |
 | Eduardo Barreda    | 1138704 |
 
-Projeto desenvolvido pelo grupo para o trabalho de consumo de API em React Native. Um integrante deve enviar no AVA o link do repositório GitHub contendo o código e este README.
+Projeto desenvolvido pelo grupo para o trabalho de consumo de API em React Native. 
 
 ## Referências
 
