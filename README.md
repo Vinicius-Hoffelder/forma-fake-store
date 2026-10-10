@@ -93,8 +93,3 @@ Os testes usam o executor nativo do Node.js e um adaptador Axios simulado, sem a
 
 Projeto desenvolvido pelo grupo para o trabalho de consumo de API em React Native. 
 
-## Referências
-
-- [Expo: iniciar o desenvolvimento](https://docs.expo.dev/get-started/start-developing/)
-- [React Navigation: configuração inicial](https://reactnavigation.org/docs/getting-started/)
-- [Fake Store API: repositório oficial](https://github.com/keikaavousi/fake-store-api)
