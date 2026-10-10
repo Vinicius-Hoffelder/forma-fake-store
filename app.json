@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Forma",
+    "slug": "forma-fake-store",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.grupo.formafakestore"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
